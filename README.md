@@ -21,3 +21,19 @@ This project analyzes historical weather data to predict future temperatures usi
 - The linear regression model was able to reasonably predict future temperatures based on past data.
 - Data cleaning and visualization were essential to improving model accuracy and interpretability.
 - The model can be adapted to forecast weather in different locations using similar historical datasets.
+
+
+## Note About the Notebook File
+
+The notebook `Final Project - Weather Projection Model.ipynb` is stored using [Git Large File Storage (LFS)](https://git-lfs.github.com/) because it exceeds GitHub's 100 MB display limit.
+
+Although it is successfully uploaded and available in the repository, **GitHub cannot preview it directly** due to its size (202 MB).
+
+To view or run the notebook:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/kelsrobertson/Weather-Prediction-Model.git
+   cd Weather-Prediction-Model
+   git lfs install
+   git lfs pull

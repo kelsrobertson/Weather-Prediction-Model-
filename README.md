@@ -25,7 +25,7 @@ This project analyzes historical weather data to predict future temperatures usi
 
 ## Note About the Notebook File
 
-The notebook `Final Project - Weather Projection Model.ipynb` is stored using [Git Large File Storage (LFS)](https://git-lfs.github.com/) because it exceeds GitHub's 100 MB display limit.
+The notebook `Final Project - Weather Projection Model-.ipynb` is stored using [Git Large File Storage (LFS)](https://git-lfs.github.com/) because it exceeds GitHub's 100 MB display limit.
 
 Although it is successfully uploaded and available in the repository, **GitHub cannot preview it directly** due to its size (202 MB).
 

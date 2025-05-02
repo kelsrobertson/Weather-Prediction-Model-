@@ -33,7 +33,7 @@ To view or run the notebook:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kelsrobertson/Weather-Prediction-Model.git
+   git clone https://github.com/kelsrobertson/Weather-Prediction-Model-.git
    cd Weather-Prediction-Model
    git lfs install
    git lfs pull

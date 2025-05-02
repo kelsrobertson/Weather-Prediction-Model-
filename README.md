@@ -15,3 +15,9 @@ This project analyzes historical weather data to predict future temperatures usi
 - Jupyter Notebook
 - Pandas, Matplotlib, Seaborn
 - Scikit-learn (for linear regression)
+
+# Key Findings
+- Clear temperature trends were observed over time, showing seasonal patterns and gradual increases.
+- The linear regression model was able to reasonably predict future temperatures based on past data.
+- Data cleaning and visualization were essential to improving model accuracy and interpretability.
+- The model can be adapted to forecast weather in different locations using similar historical datasets.

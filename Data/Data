@@ -1,1 +1,25 @@
+# Dataset: Historical Weather Data
+
+This dataset contains historical weather measurements used for predicting future temperature trends using linear regression. It includes key meteorological features recorded over time and serves as the foundation for building the forecasting model in the project.
+
+# Features
+- `Date_Time`: Timestamp for each observation  
+- `Location`: Geographic location of the weather station  
+- `Temperature_C`: Recorded temperature in degrees Celsius (target variable)  
+- `Humidity_pct`: Relative humidity (%)  
+- `Precipitation_mm`: Precipitation in millimeters  
+- `Wind_Speed_kmh`: Wind speed in kilometers per hour
+
+# Source
+Provided for academic purposes as part of the **ISAT 341 Final Project** at James Madison University. Not intended for commercial or real-time use.
+
+# Format
+- CSV format  
+- Each row represents a weather snapshot at a specific location and time  
+- Suitable for time-series analysis and regression modeling
+
+# Notes
+- Data was cleaned to handle missing and inconsistent values  
+- Linear regression was applied to predict `Temperature_C`  
+- Visualizations were used to reveal patterns and seasonal effects
 

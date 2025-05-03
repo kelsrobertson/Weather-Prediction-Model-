@@ -23,5 +23,10 @@ Provided for academic purposes as part of the **ISAT 341 Final Project** at Jame
 - Linear regression was applied to predict `Temperature_C`  
 - Visualizations were used to reveal patterns and seasonal effects
 
+## Weather Dataset (Full Version)
 
-https://drive.google.com/drive/folders/1I7E9P9QYkyq-8_25KMmiyuVGKB-X2TOB
+The full weather dataset used in this project is too large to store directly in this GitHub repository.
+
+# Download it here:
+[Click to download weather_data.csv from Google Drive]
+(https://drive.google.com/file/d/165FF4GasmWW94PSmvrb_rCjPYWMl5ZY_/view?usp=drive_link)

@@ -25,15 +25,19 @@ This project analyzes historical weather data to predict future temperatures usi
 
 ## Note About the Notebook File
 
-The notebook `Final Project - Weather Projection Model-.ipynb` is stored using [Git Large File Storage (LFS)](https://git-lfs.github.com/) because it exceeds GitHub's 100 MB display limit.
+The original notebook, Final Project – Weather Projection Model.ipynb, exceeds GitHub’s file display and upload limits (202 MB), and is therefore not directly viewable on GitHub.
 
-Although it is successfully uploaded and available in the repository, **GitHub cannot preview it directly** due to its size (202 MB).
+To allow others to view the code without using Git Large File Storage (LFS), a .py script version of the notebook is included in this repository. This script mirrors the content and logic of the original notebook but excludes outputs and embedded media that caused the file to exceed GitHub’s size restrictions.
 
-To view or run the notebook:
+If you wish to access or run the full .ipynb notebook version (with outputs):
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/kelsrobertson/Weather-Prediction-Model-.git
-   cd Weather-Prediction-Model
-   git lfs install
-   git lfs pull
+Clone the repository with Git LFS enabled:
+
+bash
+Copy
+Edit
+git clone https://github.com/kelseyrobertson/Weather-Prediction-Model-.git
+cd Weather-Prediction-Model-
+git lfs install
+git lfs pull
+Open the notebook locally in Jupyter Notebook or JupyterLab.

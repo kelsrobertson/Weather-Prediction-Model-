@@ -34,10 +34,9 @@ If you wish to access or run the full .ipynb notebook version (with outputs):
 Clone the repository with Git LFS enabled:
 
 bash
-Copy
-Edit
-git clone https://github.com/kelseyrobertson/Weather-Prediction-Model-.git
-cd Weather-Prediction-Model-
-git lfs install
-git lfs pull
+- git clone https://github.com/kelseyrobertson/Weather-Prediction-Model-.git
+- cd Weather-Prediction-Model-
+- git lfs install
+- git lfs pull
+
 Open the notebook locally in Jupyter Notebook or JupyterLab.
